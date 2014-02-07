@@ -217,7 +217,7 @@
     <a id="donate_link" href="https://sendto.mozilla.org/page/contribute/">
         <div>
             <h1 class="webfont_8">支持 Mozilla</h1>
-            <p class="webfont_9">表達您對 <i>開放</i> 與 <i>隱私</i> 的堅持，<br>贊助 Mozilla 基金會年終募款，<br>與我們一齊保護網際網路！</p><p>Make donation to Mozilla</p>
+            <p class="webfont_9">表達您對 <i>開放</i> 與 <i>隱私</i> 的堅持，<br>贊助 Mozilla 基金會年終募款，<br>與我們一齊保護網際網路！</p><p>Make your donation to Mozilla!</p>
         </div>
     </a>
   <div id="feature-content">
@@ -257,7 +257,7 @@
   </div>
 -->
   <div class="frontcolumn" id="feature-thunderbird">
-      <h2><a href="/thunderbird/">Thunderbird<img src="/images/product-thunderbird-v3.png" style="height:72px;width:72px;" alt="Thunderbird Logo" class="promo"></a></h2>
+      <h2><a href="http://moztw.org/thunderbird/">Thunderbird<img src="/images/product-thunderbird-v3.png" style="height:72px;width:72px;" alt="Thunderbird Logo" class="promo"></a></h2>
 	  <p><a href="/thunderbird/">Thunderbird</a> 電子郵件軟體全新登場，帶來分頁、威力倍增的搜索及郵件備存功能，並提供您個人專屬的郵件體驗。</p>
   </div>
 <!--  <div class="frontcolumn">
@@ -301,7 +301,7 @@
         <img class="rss" src="/images/rss.png" alt="Announcements in RSS" width="28" height="16">
       </a>
       <h2>
-        <a href="/news">News & Updates 最新消息與公告</a>
+        <a href="/news">News & Updates<br/>最新消息與公告</a>
       </h2>
 	  <!--#include virtual="/inc/news.html" -->
 	  </ul><!-- start tag is in inc/news.html, DO NOT REMOVE -->
@@ -311,18 +311,13 @@
     <!-- End News Columns -->  
     
     <div class="frontcolumnlast">
-	  <h2>台灣社群快速捷徑</h2>
+	  <h2>MozTW台灣社群快速捷徑</h2>
         <ul class="news">
           <li><a href="http://moztw.org/foxmosa/game/pairs/" onClick="_gaq.push(['_trackEvent', 'Outgoing', 'Browser Pairs', 'frontpage']);">Foxmosa 瀏覽器翻牌遊戲</a></li>
-<!--          <li><a href="https://webmaker.org/" onClick="_gaq.push(['_trackEvent', 'Outgoing', 'Webmaker', 'frontpage']);">Mozilla Webmaker</a></li>          -->
+          <li><a href="https://webmaker.org/" onClick="_gaq.push(['_trackEvent', 'Outgoing', 'Webmaker', 'frontpage']);">Mozilla Webmaker</a></li>         
           <li><a href="http://mozlinks-zh.blogspot.com/" onClick="_gaq.push(['_trackEvent', 'Outgoing', 'Mozilla Links', 'frontpage']);">Mozilla Links 正體中文版</a></li>
           <li><a href="http://gfx.tw/" onClick="_gaq.push(['_trackEvent', 'Outgoing', 'gfx.tw', 'frontpage']);">gfx.tw 抓火狐</a></li>
-          <li><a href="/firefox/tw">Firefox 台灣版：深度介紹</a></li>
           <li><a href="http://forum.moztw.org/viewforum.php?f=2" onClick="_gaq.push(['_trackEvent', 'inGoing', 'Forum: Firefox', 'frontpage']);">Firefox 中文討論區</a></li>
-<!--          <li><a href="http://forum.moztw.org/viewtopic.php?f=17&t=34697" onClick="_gaq.push(['_trackEvent', 'inGoing', 'Forum: dev-general-zh', 'frontpage']);">郵件群組：Mozilla 中文開發者社群</a></li>-->
-          <li><a href="http://www.mozilla.com/zh-TW/firefox/channel/" onClick="_gaq.push(['_trackEvent', 'Outgoing', 'Firefox Mozilla - Channel', 'frontpage']);">Firefox 未來發行版本</a></li>
-          <li><a href="/firefox/extension_top_15/">社群嚴選：擴充套件 Top 15</a></li>
-          <li><a href="/twoffice/">Mozilla Taiwan 公司徵人啟事</a></li>
         </ul>
     </div>
   </div>
