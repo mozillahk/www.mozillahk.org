@@ -214,7 +214,7 @@
 
 
 <div class="key-point front-feature" id="front-feature">	
-    <a id="donate_link" href="/donate/">
+    <a id="donate_link" href="https://sendto.mozilla.org/page/contribute/">
         <div>
             <h1 class="webfont_8">支持 Mozilla</h1>
             <p class="webfont_9">表達您對 <i>開放</i> 與 <i>隱私</i> 的堅持，<br>贊助 Mozilla 基金會年終募款，<br>與我們一齊保護網際網路！</p>
@@ -246,6 +246,7 @@
 </div>
 
 <div id="mBody">
+<!--
   <div class="frontcolumn hide" id="mobile-feature-ios">
     <h2 class="mobile-header"><a href="https://itunes.apple.com/tw/app/bookmarks-on-the-go/id550037184?l=zh&mt=8" onClick="_gaq.push(['_trackEvent', 'Outgoing', 'iOS-AppStore-BookmarkOnTheGo', 'frontpage-frontcolumn']);">Bookmark On The Go<img src="/images/product-firefox-homn.png" alt="Bookmark On The Go" class="promo"></a></h2>
     <p><b>行動首頁帶著走。</b>在 iPhone 上任意取用 Firefox 的瀏覽歷史及書籤，時時同步開啟分頁，喜歡的網站隨時都在您手邊！<br>→ <a href="http://m.youtube.com/#/watch?v=_rFf5BnurVI" onClick="_gaq.push(['_trackEvent', 'Show Video', 'FirefoxHome', 'frontpage']);">Firefox Home 迷你短片</a></p>
@@ -254,6 +255,7 @@
     <h2><a href="/mobile/"><img src="/images/foxmosa-android.png" style="float: left;height: 125px;margin:-5px 9px 0 -10px;width: 107px;" alt="Foxmosa love Android" class="promo">Android 版 Firefox</a></h2>
   	<p>Android 版 Firefox 全面更新，更快、更聰明、更加安全，輕巧又靈活，讓您更快到達想去的地方。</p>
   </div>
+-->
   <div class="frontcolumn" id="feature-thunderbird">
       <h2><a href="/thunderbird/">Thunderbird<img src="/images/product-thunderbird-v3.png" style="height:72px;width:72px;" alt="Thunderbird Logo" class="promo"></a></h2>
 	  <p><a href="/thunderbird/">Thunderbird</a> 電子郵件軟體全新登場，帶來分頁、威力倍增的搜索及郵件備存功能，並提供您個人專屬的郵件體驗。</p>
