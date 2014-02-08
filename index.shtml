@@ -409,4 +409,4 @@ arphicWebFontApi.ready = function() {
 })(jQuery);
 </script>
 
-<!--#include virtual="/inc/footer_arphic_webfont.html" -->
+<!--#include virtual="/inc/footer.html" -->
